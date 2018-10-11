@@ -1,1 +1,1 @@
-# Neural network sloan-digital-sky-survey classification
+# Omniglot Classification and Data Generation
