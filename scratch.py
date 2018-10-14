@@ -17,13 +17,20 @@ plt.hist()
 import torch.nn as nn
 import torch.nn.functional as F
 
-trainset = torchvision.datasets.CIFAR10(root='./data',
+trainset = torchvision.datasets.Omniglot(root='./data',
                                         download=True, transform=transform)
+
+
+torchvision.datasets.ImageFolder
 trainloader = torch.utils.data.DataLoader(trainset, batch_size=4,
                                           shuffle=True, num_workers=2)
 
 trainset.__getitem__(0)
 
+criterion = nn.CrossEntropyLoss()
+criterion([], [])
+
+F.tanh
 
 class Net(nn.Module):
     def __init__(self):
@@ -43,6 +50,10 @@ class Net(nn.Module):
         x = F.relu(self.fc2(x))
         x = self.fc3(x)
         return x
+
+import os
+
+os.rmdir
 
 
 net = Net()

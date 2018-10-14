@@ -104,3 +104,8 @@ venv.bak/
 .mypy_cache/
 .idea
 data
+generated
+generated2
+input
+results
+
