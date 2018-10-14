@@ -108,4 +108,5 @@ generated
 generated2
 input
 results
+*.pt
 
