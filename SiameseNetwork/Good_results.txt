@@ -1,0 +1,249 @@
+FINAL RUN
+
+Epoch 1, 9% run_loss: 0.7341 run acc: 534/750 (71.20%) 	tot_loss: 0.7341 N_acc: 1/2 (50.00%) Y_acc: 533/748 (71.26%) took 7.37s
+Epoch 1, 19% run_loss: 0.3377 run acc: 747/750 (99.60%) 	tot_loss: 0.5359 N_acc: 1/3 (33.33%) Y_acc: 1280/1497 (85.50%) took 1.52s
+Epoch 1, 29% run_loss: 0.0965 run acc: 748/750 (99.73%) 	tot_loss: 0.3894 N_acc: 1/4 (25.00%) Y_acc: 2028/2246 (90.29%) took 1.61s
+Epoch 1, 38% run_loss: 0.0210 run acc: 750/750 (100.00%) 	tot_loss: 0.2973 N_acc: 1/4 (25.00%) Y_acc: 2778/2996 (92.72%) took 1.55s
+Epoch 1, 48% run_loss: 0.0210 run acc: 748/750 (99.73%) 	tot_loss: 0.2421 N_acc: 1/6 (16.67%) Y_acc: 3526/3744 (94.18%) took 1.52s
+Epoch 1, 58% run_loss: 0.0204 run acc: 748/750 (99.73%) 	tot_loss: 0.2051 N_acc: 1/8 (12.50%) Y_acc: 4274/4492 (95.15%) took 1.51s
+Epoch 1, 68% run_loss: 0.0125 run acc: 749/750 (99.87%) 	tot_loss: 0.1776 N_acc: 1/9 (11.11%) Y_acc: 5023/5241 (95.84%) took 1.51s
+Epoch 1, 77% run_loss: 0.0116 run acc: 749/750 (99.87%) 	tot_loss: 0.1569 N_acc: 1/10 (10.00%) Y_acc: 5772/5990 (96.36%) took 1.51s
+Epoch 1, 87% run_loss: 0.0182 run acc: 748/750 (99.73%) 	tot_loss: 0.1414 N_acc: 1/12 (8.33%) Y_acc: 6520/6738 (96.76%) took 1.51s
+Epoch 1, 97% run_loss: 0.0111 run acc: 749/750 (99.87%) 	tot_loss: 0.1284 N_acc: 1/13 (7.69%) Y_acc: 7269/7487 (97.09%) took 1.52s
+
+Validation loss = 0.011070 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+
+Epoch and Validation took 24.03s
+Epoch 2, 9% run_loss: 0.0025 run acc: 750/750 (100.00%) 	tot_loss: 0.1143 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 3.14s
+Epoch 2, 19% run_loss: 0.0085 run acc: 749/750 (99.87%) 	tot_loss: 0.1056 N_acc: 0/1 (0.00%) Y_acc: 1499/1499 (100.00%) took 1.54s
+Epoch 2, 29% run_loss: 0.0109 run acc: 749/750 (99.87%) 	tot_loss: 0.0985 N_acc: 0/2 (0.00%) Y_acc: 2248/2248 (100.00%) took 1.52s
+Epoch 2, 38% run_loss: 0.0110 run acc: 749/750 (99.87%) 	tot_loss: 0.0924 N_acc: 0/3 (0.00%) Y_acc: 2997/2997 (100.00%) took 1.52s
+Epoch 2, 48% run_loss: 0.0198 run acc: 748/750 (99.73%) 	tot_loss: 0.0876 N_acc: 0/5 (0.00%) Y_acc: 3745/3745 (100.00%) took 1.62s
+Epoch 2, 58% run_loss: 0.0115 run acc: 749/750 (99.87%) 	tot_loss: 0.0829 N_acc: 0/6 (0.00%) Y_acc: 4494/4494 (100.00%) took 1.58s
+Epoch 2, 68% run_loss: 0.0088 run acc: 749/750 (99.87%) 	tot_loss: 0.0786 N_acc: 0/7 (0.00%) Y_acc: 5243/5243 (100.00%) took 1.53s
+Epoch 2, 77% run_loss: 0.0288 run acc: 747/750 (99.60%) 	tot_loss: 0.0759 N_acc: 0/10 (0.00%) Y_acc: 5990/5990 (100.00%) took 1.54s
+Epoch 2, 87% run_loss: 0.0101 run acc: 749/750 (99.87%) 	tot_loss: 0.0725 N_acc: 0/11 (0.00%) Y_acc: 6739/6739 (100.00%) took 1.51s
+Epoch 2, 97% run_loss: 0.0092 run acc: 749/750 (99.87%) 	tot_loss: 0.0694 N_acc: 0/12 (0.00%) Y_acc: 7488/7488 (100.00%) took 1.55s
+Validation loss = 0.012086 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.87s
+Epoch 3, 9% run_loss: 0.0023 run acc: 750/750 (100.00%) 	tot_loss: 0.0659 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 3.13s
+Epoch 3, 19% run_loss: 0.0184 run acc: 748/750 (99.73%) 	tot_loss: 0.0637 N_acc: 0/2 (0.00%) Y_acc: 1498/1498 (100.00%) took 1.58s
+Epoch 3, 29% run_loss: 0.0019 run acc: 750/750 (100.00%) 	tot_loss: 0.0611 N_acc: 0/2 (0.00%) Y_acc: 2248/2248 (100.00%) took 1.57s
+Epoch 3, 38% run_loss: 0.0058 run acc: 749/750 (99.87%) 	tot_loss: 0.0589 N_acc: 0/3 (0.00%) Y_acc: 2997/2997 (100.00%) took 1.60s
+Epoch 3, 48% run_loss: 0.0117 run acc: 749/750 (99.87%) 	tot_loss: 0.0570 N_acc: 0/4 (0.00%) Y_acc: 3746/3746 (100.00%) took 1.50s
+Epoch 3, 58% run_loss: 0.0166 run acc: 748/750 (99.73%) 	tot_loss: 0.0555 N_acc: 0/6 (0.00%) Y_acc: 4494/4494 (100.00%) took 1.54s
+Epoch 3, 68% run_loss: 0.0110 run acc: 749/750 (99.87%) 	tot_loss: 0.0539 N_acc: 0/7 (0.00%) Y_acc: 5243/5243 (100.00%) took 1.55s
+Epoch 3, 77% run_loss: 0.0177 run acc: 748/750 (99.73%) 	tot_loss: 0.0526 N_acc: 0/9 (0.00%) Y_acc: 5991/5991 (100.00%) took 1.59s
+Epoch 3, 87% run_loss: 0.0170 run acc: 748/750 (99.73%) 	tot_loss: 0.0514 N_acc: 0/11 (0.00%) Y_acc: 6739/6739 (100.00%) took 1.51s
+Epoch 3, 97% run_loss: 0.0214 run acc: 748/750 (99.73%) 	tot_loss: 0.0504 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.51s
+Validation loss = 0.011228 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.82s
+Epoch 4, 9% run_loss: 0.0198 run acc: 748/750 (99.73%) 	tot_loss: 0.0491 N_acc: 0/2 (0.00%) Y_acc: 748/748 (100.00%) took 3.40s
+Epoch 4, 19% run_loss: 0.0018 run acc: 750/750 (100.00%) 	tot_loss: 0.0476 N_acc: 0/2 (0.00%) Y_acc: 1498/1498 (100.00%) took 1.58s
+Epoch 4, 29% run_loss: 0.0103 run acc: 749/750 (99.87%) 	tot_loss: 0.0465 N_acc: 0/3 (0.00%) Y_acc: 2247/2247 (100.00%) took 1.55s
+Epoch 4, 38% run_loss: 0.0014 run acc: 750/750 (100.00%) 	tot_loss: 0.0452 N_acc: 0/3 (0.00%) Y_acc: 2997/2997 (100.00%) took 1.54s
+Epoch 4, 48% run_loss: 0.0359 run acc: 746/750 (99.47%) 	tot_loss: 0.0449 N_acc: 0/7 (0.00%) Y_acc: 3743/3743 (100.00%) took 1.59s
+Epoch 4, 58% run_loss: 0.0024 run acc: 750/750 (100.00%) 	tot_loss: 0.0438 N_acc: 0/7 (0.00%) Y_acc: 4493/4493 (100.00%) took 1.57s
+Epoch 4, 68% run_loss: 0.0122 run acc: 749/750 (99.87%) 	tot_loss: 0.0430 N_acc: 0/8 (0.00%) Y_acc: 5242/5242 (100.00%) took 1.56s
+Epoch 4, 77% run_loss: 0.0014 run acc: 750/750 (100.00%) 	tot_loss: 0.0419 N_acc: 0/8 (0.00%) Y_acc: 5992/5992 (100.00%) took 1.53s
+Epoch 4, 87% run_loss: 0.0008 run acc: 750/750 (100.00%) 	tot_loss: 0.0409 N_acc: 0/8 (0.00%) Y_acc: 6742/6742 (100.00%) took 1.52s
+Epoch 4, 97% run_loss: 0.0402 run acc: 746/750 (99.47%) 	tot_loss: 0.0408 N_acc: 0/12 (0.00%) Y_acc: 7488/7488 (100.00%) took 1.56s
+Validation loss = 0.011566 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 20.14s
+Epoch 5, 9% run_loss: 0.0111 run acc: 749/750 (99.87%) 	tot_loss: 0.0401 N_acc: 0/1 (0.00%) Y_acc: 749/749 (100.00%) took 3.15s
+Epoch 5, 19% run_loss: 0.0018 run acc: 750/750 (100.00%) 	tot_loss: 0.0392 N_acc: 0/1 (0.00%) Y_acc: 1499/1499 (100.00%) took 1.51s
+Epoch 5, 29% run_loss: 0.0101 run acc: 749/750 (99.87%) 	tot_loss: 0.0385 N_acc: 0/2 (0.00%) Y_acc: 2248/2248 (100.00%) took 1.51s
+Epoch 5, 38% run_loss: 0.0013 run acc: 750/750 (100.00%) 	tot_loss: 0.0377 N_acc: 0/2 (0.00%) Y_acc: 2998/2998 (100.00%) took 1.54s
+Epoch 5, 48% run_loss: 0.0097 run acc: 749/750 (99.87%) 	tot_loss: 0.0371 N_acc: 0/3 (0.00%) Y_acc: 3747/3747 (100.00%) took 1.58s
+Epoch 5, 58% run_loss: 0.0118 run acc: 748/750 (99.73%) 	tot_loss: 0.0365 N_acc: 0/5 (0.00%) Y_acc: 4495/4495 (100.00%) took 1.52s
+Epoch 5, 68% run_loss: 0.0370 run acc: 746/750 (99.47%) 	tot_loss: 0.0366 N_acc: 0/9 (0.00%) Y_acc: 5241/5241 (100.00%) took 1.55s
+Epoch 5, 77% run_loss: 0.0150 run acc: 748/750 (99.73%) 	tot_loss: 0.0361 N_acc: 0/11 (0.00%) Y_acc: 5989/5989 (100.00%) took 1.56s
+Epoch 5, 87% run_loss: 0.0100 run acc: 749/750 (99.87%) 	tot_loss: 0.0356 N_acc: 0/12 (0.00%) Y_acc: 6738/6738 (100.00%) took 1.60s
+Epoch 5, 97% run_loss: 0.0118 run acc: 749/750 (99.87%) 	tot_loss: 0.0351 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.56s
+Validation loss = 0.012298 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 20.35s
+Epoch 6, 9% run_loss: 0.0341 run acc: 747/750 (99.60%) 	tot_loss: 0.0349 N_acc: 0/3 (0.00%) Y_acc: 747/747 (100.00%) took 3.38s
+Epoch 6, 19% run_loss: 0.0011 run acc: 750/750 (100.00%) 	tot_loss: 0.0343 N_acc: 0/3 (0.00%) Y_acc: 1497/1497 (100.00%) took 1.52s
+Epoch 6, 29% run_loss: 0.0188 run acc: 748/750 (99.73%) 	tot_loss: 0.0340 N_acc: 0/5 (0.00%) Y_acc: 2245/2245 (100.00%) took 1.52s
+Epoch 6, 38% run_loss: 0.0204 run acc: 748/750 (99.73%) 	tot_loss: 0.0338 N_acc: 0/7 (0.00%) Y_acc: 2993/2993 (100.00%) took 1.58s
+Epoch 6, 48% run_loss: 0.0028 run acc: 750/750 (100.00%) 	tot_loss: 0.0332 N_acc: 0/7 (0.00%) Y_acc: 3743/3743 (100.00%) took 1.50s
+Epoch 6, 58% run_loss: 0.0280 run acc: 747/750 (99.60%) 	tot_loss: 0.0331 N_acc: 0/10 (0.00%) Y_acc: 4490/4490 (100.00%) took 1.54s
+Epoch 6, 68% run_loss: 0.0016 run acc: 750/750 (100.00%) 	tot_loss: 0.0326 N_acc: 0/10 (0.00%) Y_acc: 5240/5240 (100.00%) took 1.53s
+Epoch 6, 77% run_loss: 0.0234 run acc: 748/750 (99.73%) 	tot_loss: 0.0324 N_acc: 0/12 (0.00%) Y_acc: 5988/5988 (100.00%) took 1.55s
+Epoch 6, 87% run_loss: 0.0016 run acc: 750/750 (100.00%) 	tot_loss: 0.0319 N_acc: 0/12 (0.00%) Y_acc: 6738/6738 (100.00%) took 1.58s
+Epoch 6, 97% run_loss: 0.0072 run acc: 749/750 (99.87%) 	tot_loss: 0.0315 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.56s
+Validation loss = 0.013392 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 20.37s
+Epoch 7, 9% run_loss: 0.0011 run acc: 750/750 (100.00%) 	tot_loss: 0.0309 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 3.17s
+Epoch 7, 19% run_loss: 0.0005 run acc: 750/750 (100.00%) 	tot_loss: 0.0304 N_acc: 0/0 (0.00%) Y_acc: 1500/1500 (100.00%) took 1.50s
+Epoch 7, 29% run_loss: 0.0093 run acc: 749/750 (99.87%) 	tot_loss: 0.0301 N_acc: 0/1 (0.00%) Y_acc: 2249/2249 (100.00%) took 1.63s
+Epoch 7, 38% run_loss: 0.0176 run acc: 748/750 (99.73%) 	tot_loss: 0.0299 N_acc: 0/3 (0.00%) Y_acc: 2997/2997 (100.00%) took 1.52s
+Epoch 7, 48% run_loss: 0.0235 run acc: 747/750 (99.60%) 	tot_loss: 0.0298 N_acc: 0/6 (0.00%) Y_acc: 3744/3744 (100.00%) took 1.54s
+Epoch 7, 58% run_loss: 0.0164 run acc: 748/750 (99.73%) 	tot_loss: 0.0296 N_acc: 0/8 (0.00%) Y_acc: 4492/4492 (100.00%) took 1.56s
+Epoch 7, 68% run_loss: 0.0040 run acc: 749/750 (99.87%) 	tot_loss: 0.0292 N_acc: 0/9 (0.00%) Y_acc: 5241/5241 (100.00%) took 1.55s
+Epoch 7, 77% run_loss: 0.0084 run acc: 748/750 (99.73%) 	tot_loss: 0.0289 N_acc: 0/10 (0.00%) Y_acc: 5989/5990 (99.98%) took 1.57s
+Epoch 7, 87% run_loss: 0.0213 run acc: 748/750 (99.73%) 	tot_loss: 0.0288 N_acc: 0/12 (0.00%) Y_acc: 6737/6738 (99.99%) took 1.59s
+Epoch 7, 97% run_loss: 0.0109 run acc: 749/750 (99.87%) 	tot_loss: 0.0286 N_acc: 0/13 (0.00%) Y_acc: 7486/7487 (99.99%) took 1.54s
+Validation loss = 0.011103 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 20.55s
+Epoch 8, 9% run_loss: 0.0080 run acc: 749/750 (99.87%) 	tot_loss: 0.0282 N_acc: 0/1 (0.00%) Y_acc: 749/749 (100.00%) took 3.41s
+Epoch 8, 19% run_loss: 0.0103 run acc: 749/750 (99.87%) 	tot_loss: 0.0280 N_acc: 0/2 (0.00%) Y_acc: 1498/1498 (100.00%) took 1.55s
+Epoch 8, 29% run_loss: 0.0200 run acc: 748/750 (99.73%) 	tot_loss: 0.0279 N_acc: 0/4 (0.00%) Y_acc: 2246/2246 (100.00%) took 1.56s
+Epoch 8, 38% run_loss: 0.0194 run acc: 748/750 (99.73%) 	tot_loss: 0.0277 N_acc: 0/6 (0.00%) Y_acc: 2994/2994 (100.00%) took 1.50s
+Epoch 8, 48% run_loss: 0.0201 run acc: 748/750 (99.73%) 	tot_loss: 0.0276 N_acc: 0/8 (0.00%) Y_acc: 3742/3742 (100.00%) took 1.49s
+Epoch 8, 58% run_loss: 0.0219 run acc: 748/750 (99.73%) 	tot_loss: 0.0276 N_acc: 0/10 (0.00%) Y_acc: 4490/4490 (100.00%) took 1.51s
+Epoch 8, 68% run_loss: 0.0114 run acc: 749/750 (99.87%) 	tot_loss: 0.0274 N_acc: 0/11 (0.00%) Y_acc: 5239/5239 (100.00%) took 1.61s
+Epoch 8, 77% run_loss: 0.0114 run acc: 749/750 (99.87%) 	tot_loss: 0.0272 N_acc: 0/12 (0.00%) Y_acc: 5988/5988 (100.00%) took 1.60s
+Epoch 8, 87% run_loss: 0.0011 run acc: 750/750 (100.00%) 	tot_loss: 0.0268 N_acc: 0/12 (0.00%) Y_acc: 6738/6738 (100.00%) took 1.53s
+Epoch 8, 97% run_loss: 0.0125 run acc: 749/750 (99.87%) 	tot_loss: 0.0267 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.51s
+Validation loss = 0.010930 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 20.43s
+Epoch 9, 9% run_loss: 0.0102 run acc: 749/750 (99.87%) 	tot_loss: 0.0264 N_acc: 0/1 (0.00%) Y_acc: 749/749 (100.00%) took 3.41s
+Epoch 9, 19% run_loss: 0.0261 run acc: 747/750 (99.60%) 	tot_loss: 0.0264 N_acc: 0/4 (0.00%) Y_acc: 1496/1496 (100.00%) took 1.52s
+Epoch 9, 29% run_loss: 0.0135 run acc: 749/750 (99.87%) 	tot_loss: 0.0262 N_acc: 0/5 (0.00%) Y_acc: 2245/2245 (100.00%) took 1.52s
+Epoch 9, 38% run_loss: 0.0087 run acc: 748/750 (99.73%) 	tot_loss: 0.0260 N_acc: 0/7 (0.00%) Y_acc: 2993/2993 (100.00%) took 1.53s
+Epoch 9, 48% run_loss: 0.0015 run acc: 750/750 (100.00%) 	tot_loss: 0.0257 N_acc: 0/7 (0.00%) Y_acc: 3743/3743 (100.00%) took 1.52s
+Epoch 9, 58% run_loss: 0.0006 run acc: 750/750 (100.00%) 	tot_loss: 0.0255 N_acc: 0/7 (0.00%) Y_acc: 4493/4493 (100.00%) took 1.53s
+Epoch 9, 68% run_loss: 0.0216 run acc: 748/750 (99.73%) 	tot_loss: 0.0254 N_acc: 0/9 (0.00%) Y_acc: 5241/5241 (100.00%) took 1.53s
+Epoch 9, 77% run_loss: 0.0122 run acc: 748/750 (99.73%) 	tot_loss: 0.0253 N_acc: 0/11 (0.00%) Y_acc: 5989/5989 (100.00%) took 1.52s
+Epoch 9, 87% run_loss: 0.0153 run acc: 748/750 (99.73%) 	tot_loss: 0.0252 N_acc: 0/13 (0.00%) Y_acc: 6737/6737 (100.00%) took 1.51s
+Epoch 9, 97% run_loss: 0.0017 run acc: 750/750 (100.00%) 	tot_loss: 0.0249 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.59s
+Validation loss = 0.011813 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 20.55s
+Epoch 10, 9% run_loss: 0.0153 run acc: 748/750 (99.73%) 	tot_loss: 0.0247 N_acc: 1/3 (33.33%) Y_acc: 747/747 (100.00%) took 3.52s
+Epoch 10, 19% run_loss: 0.0087 run acc: 749/750 (99.87%) 	tot_loss: 0.0246 N_acc: 1/4 (25.00%) Y_acc: 1496/1496 (100.00%) took 1.54s
+Epoch 10, 29% run_loss: 0.0214 run acc: 748/750 (99.73%) 	tot_loss: 0.0245 N_acc: 1/6 (16.67%) Y_acc: 2244/2244 (100.00%) took 1.52s
+Epoch 10, 38% run_loss: 0.0009 run acc: 750/750 (100.00%) 	tot_loss: 0.0243 N_acc: 1/6 (16.67%) Y_acc: 2994/2994 (100.00%) took 1.55s
+Epoch 10, 48% run_loss: 0.0123 run acc: 749/750 (99.87%) 	tot_loss: 0.0242 N_acc: 1/7 (14.29%) Y_acc: 3743/3743 (100.00%) took 1.58s
+Epoch 10, 58% run_loss: 0.0175 run acc: 748/750 (99.73%) 	tot_loss: 0.0241 N_acc: 1/9 (11.11%) Y_acc: 4491/4491 (100.00%) took 1.58s
+Epoch 10, 68% run_loss: 0.0361 run acc: 747/750 (99.60%) 	tot_loss: 0.0242 N_acc: 1/12 (8.33%) Y_acc: 5238/5238 (100.00%) took 1.55s
+Epoch 10, 77% run_loss: 0.0021 run acc: 750/750 (100.00%) 	tot_loss: 0.0240 N_acc: 1/12 (8.33%) Y_acc: 5988/5988 (100.00%) took 1.55s
+Epoch 10, 87% run_loss: 0.0012 run acc: 750/750 (100.00%) 	tot_loss: 0.0238 N_acc: 1/12 (8.33%) Y_acc: 6738/6738 (100.00%) took 1.54s
+Epoch 10, 97% run_loss: 0.0008 run acc: 750/750 (100.00%) 	tot_loss: 0.0235 N_acc: 1/12 (8.33%) Y_acc: 7488/7488 (100.00%) took 1.54s
+Validation loss = 0.013551 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1936/1937 (99.948374%) Accuracy = 1936/1940 (99.793814%)
+Epoch and Validation took 20.26s
+Epoch 11, 9% run_loss: 0.0124 run acc: 749/750 (99.87%) 	tot_loss: 0.0235 N_acc: 0/1 (0.00%) Y_acc: 749/749 (100.00%) took 2.89s
+Epoch 11, 19% run_loss: 0.0170 run acc: 748/750 (99.73%) 	tot_loss: 0.0234 N_acc: 0/3 (0.00%) Y_acc: 1497/1497 (100.00%) took 1.52s
+Epoch 11, 29% run_loss: 0.0172 run acc: 748/750 (99.73%) 	tot_loss: 0.0233 N_acc: 0/5 (0.00%) Y_acc: 2245/2245 (100.00%) took 1.52s
+Epoch 11, 38% run_loss: 0.0121 run acc: 749/750 (99.87%) 	tot_loss: 0.0232 N_acc: 0/6 (0.00%) Y_acc: 2994/2994 (100.00%) took 1.54s
+Epoch 11, 48% run_loss: 0.0014 run acc: 750/750 (100.00%) 	tot_loss: 0.0230 N_acc: 0/6 (0.00%) Y_acc: 3744/3744 (100.00%) took 1.54s
+Epoch 11, 58% run_loss: 0.0006 run acc: 750/750 (100.00%) 	tot_loss: 0.0228 N_acc: 0/6 (0.00%) Y_acc: 4494/4494 (100.00%) took 1.56s
+Epoch 11, 68% run_loss: 0.0178 run acc: 748/750 (99.73%) 	tot_loss: 0.0228 N_acc: 0/8 (0.00%) Y_acc: 5242/5242 (100.00%) took 1.56s
+Epoch 11, 77% run_loss: 0.0010 run acc: 750/750 (100.00%) 	tot_loss: 0.0226 N_acc: 0/8 (0.00%) Y_acc: 5992/5992 (100.00%) took 1.55s
+Epoch 11, 87% run_loss: 0.0280 run acc: 747/750 (99.60%) 	tot_loss: 0.0226 N_acc: 0/11 (0.00%) Y_acc: 6739/6739 (100.00%) took 1.56s
+Epoch 11, 97% run_loss: 0.0247 run acc: 748/750 (99.73%) 	tot_loss: 0.0227 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.55s
+Validation loss = 0.010711 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.58s
+Epoch 12, 9% run_loss: 0.0080 run acc: 749/750 (99.87%) 	tot_loss: 0.0225 N_acc: 1/2 (50.00%) Y_acc: 748/748 (100.00%) took 2.96s
+Epoch 12, 19% run_loss: 0.0065 run acc: 749/750 (99.87%) 	tot_loss: 0.0223 N_acc: 1/3 (33.33%) Y_acc: 1497/1497 (100.00%) took 1.51s
+Epoch 12, 29% run_loss: 0.0019 run acc: 750/750 (100.00%) 	tot_loss: 0.0222 N_acc: 1/3 (33.33%) Y_acc: 2247/2247 (100.00%) took 1.52s
+Epoch 12, 38% run_loss: 0.0106 run acc: 749/750 (99.87%) 	tot_loss: 0.0221 N_acc: 1/4 (25.00%) Y_acc: 2996/2996 (100.00%) took 1.51s
+Epoch 12, 48% run_loss: 0.0167 run acc: 748/750 (99.73%) 	tot_loss: 0.0220 N_acc: 1/6 (16.67%) Y_acc: 3744/3744 (100.00%) took 1.51s
+Epoch 12, 58% run_loss: 0.0248 run acc: 747/750 (99.60%) 	tot_loss: 0.0220 N_acc: 1/9 (11.11%) Y_acc: 4491/4491 (100.00%) took 1.54s
+Epoch 12, 68% run_loss: 0.0088 run acc: 749/750 (99.87%) 	tot_loss: 0.0219 N_acc: 1/10 (10.00%) Y_acc: 5240/5240 (100.00%) took 1.60s
+Epoch 12, 77% run_loss: 0.0099 run acc: 749/750 (99.87%) 	tot_loss: 0.0218 N_acc: 1/11 (9.09%) Y_acc: 5989/5989 (100.00%) took 1.52s
+Epoch 12, 87% run_loss: 0.0061 run acc: 749/750 (99.87%) 	tot_loss: 0.0217 N_acc: 1/12 (8.33%) Y_acc: 6738/6738 (100.00%) took 1.54s
+Epoch 12, 97% run_loss: 0.0065 run acc: 749/750 (99.87%) 	tot_loss: 0.0216 N_acc: 1/13 (7.69%) Y_acc: 7487/7487 (100.00%) took 1.54s
+Validation loss = 0.013706 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.47s
+Epoch 13, 9% run_loss: 0.0221 run acc: 747/750 (99.60%) 	tot_loss: 0.0215 N_acc: 0/3 (0.00%) Y_acc: 747/747 (100.00%) took 2.93s
+Epoch 13, 19% run_loss: 0.0215 run acc: 748/750 (99.73%) 	tot_loss: 0.0215 N_acc: 0/5 (0.00%) Y_acc: 1495/1495 (100.00%) took 1.55s
+Epoch 13, 29% run_loss: 0.0170 run acc: 748/750 (99.73%) 	tot_loss: 0.0215 N_acc: 0/7 (0.00%) Y_acc: 2243/2243 (100.00%) took 1.51s
+Epoch 13, 38% run_loss: 0.0019 run acc: 750/750 (100.00%) 	tot_loss: 0.0213 N_acc: 0/7 (0.00%) Y_acc: 2993/2993 (100.00%) took 1.55s
+Epoch 13, 48% run_loss: 0.0011 run acc: 750/750 (100.00%) 	tot_loss: 0.0212 N_acc: 0/7 (0.00%) Y_acc: 3743/3743 (100.00%) took 1.52s
+Epoch 13, 58% run_loss: 0.0217 run acc: 748/750 (99.73%) 	tot_loss: 0.0212 N_acc: 0/9 (0.00%) Y_acc: 4491/4491 (100.00%) took 1.51s
+Epoch 13, 68% run_loss: 0.0082 run acc: 749/750 (99.87%) 	tot_loss: 0.0211 N_acc: 0/10 (0.00%) Y_acc: 5240/5240 (100.00%) took 1.51s
+Epoch 13, 77% run_loss: 0.0147 run acc: 749/750 (99.87%) 	tot_loss: 0.0210 N_acc: 0/11 (0.00%) Y_acc: 5989/5989 (100.00%) took 1.52s
+Epoch 13, 87% run_loss: 0.0101 run acc: 749/750 (99.87%) 	tot_loss: 0.0210 N_acc: 0/12 (0.00%) Y_acc: 6738/6738 (100.00%) took 1.52s
+Epoch 13, 97% run_loss: 0.0119 run acc: 749/750 (99.87%) 	tot_loss: 0.0209 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.52s
+Validation loss = 0.010472 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.50s
+Epoch 14, 9% run_loss: 0.0214 run acc: 748/750 (99.73%) 	tot_loss: 0.0209 N_acc: 0/2 (0.00%) Y_acc: 748/748 (100.00%) took 2.97s
+Epoch 14, 19% run_loss: 0.0220 run acc: 747/750 (99.60%) 	tot_loss: 0.0209 N_acc: 1/6 (16.67%) Y_acc: 1494/1494 (100.00%) took 1.55s
+Epoch 14, 29% run_loss: 0.0131 run acc: 749/750 (99.87%) 	tot_loss: 0.0208 N_acc: 1/7 (14.29%) Y_acc: 2243/2243 (100.00%) took 1.58s
+Epoch 14, 38% run_loss: 0.0048 run acc: 749/750 (99.87%) 	tot_loss: 0.0207 N_acc: 1/8 (12.50%) Y_acc: 2992/2992 (100.00%) took 1.55s
+Epoch 14, 48% run_loss: 0.0005 run acc: 750/750 (100.00%) 	tot_loss: 0.0205 N_acc: 1/8 (12.50%) Y_acc: 3742/3742 (100.00%) took 1.57s
+Epoch 14, 58% run_loss: 0.0003 run acc: 750/750 (100.00%) 	tot_loss: 0.0204 N_acc: 1/8 (12.50%) Y_acc: 4492/4492 (100.00%) took 1.58s
+Epoch 14, 68% run_loss: 0.0252 run acc: 747/750 (99.60%) 	tot_loss: 0.0204 N_acc: 2/12 (16.67%) Y_acc: 5238/5238 (100.00%) took 1.59s
+Epoch 14, 77% run_loss: 0.0082 run acc: 749/750 (99.87%) 	tot_loss: 0.0203 N_acc: 2/13 (15.38%) Y_acc: 5987/5987 (100.00%) took 1.63s
+Epoch 14, 87% run_loss: 0.0028 run acc: 749/750 (99.87%) 	tot_loss: 0.0202 N_acc: 2/13 (15.38%) Y_acc: 6736/6737 (99.99%) took 1.54s
+Epoch 14, 97% run_loss: 0.0003 run acc: 750/750 (100.00%) 	tot_loss: 0.0201 N_acc: 2/13 (15.38%) Y_acc: 7486/7487 (99.99%) took 1.54s
+Validation loss = 0.016045 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1936/1937 (99.948374%) Accuracy = 1936/1940 (99.793814%)
+Epoch and Validation took 19.92s
+Epoch 15, 9% run_loss: 0.0002 run acc: 750/750 (100.00%) 	tot_loss: 0.0199 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 2.88s
+Epoch 15, 19% run_loss: 0.0045 run acc: 749/750 (99.87%) 	tot_loss: 0.0198 N_acc: 0/1 (0.00%) Y_acc: 1499/1499 (100.00%) took 1.52s
+Epoch 15, 29% run_loss: 0.0003 run acc: 750/750 (100.00%) 	tot_loss: 0.0197 N_acc: 0/1 (0.00%) Y_acc: 2249/2249 (100.00%) took 1.53s
+Epoch 15, 38% run_loss: 0.0003 run acc: 750/750 (100.00%) 	tot_loss: 0.0195 N_acc: 0/1 (0.00%) Y_acc: 2999/2999 (100.00%) took 1.51s
+Epoch 15, 48% run_loss: 0.0212 run acc: 748/750 (99.73%) 	tot_loss: 0.0195 N_acc: 0/3 (0.00%) Y_acc: 3747/3747 (100.00%) took 1.52s
+Epoch 15, 58% run_loss: 0.0205 run acc: 748/750 (99.73%) 	tot_loss: 0.0196 N_acc: 0/5 (0.00%) Y_acc: 4495/4495 (100.00%) took 1.51s
+Epoch 15, 68% run_loss: 0.0102 run acc: 749/750 (99.87%) 	tot_loss: 0.0195 N_acc: 0/6 (0.00%) Y_acc: 5244/5244 (100.00%) took 1.50s
+Epoch 15, 77% run_loss: 0.0157 run acc: 748/750 (99.73%) 	tot_loss: 0.0195 N_acc: 0/8 (0.00%) Y_acc: 5992/5992 (100.00%) took 1.54s
+Epoch 15, 87% run_loss: 0.0279 run acc: 747/750 (99.60%) 	tot_loss: 0.0195 N_acc: 0/11 (0.00%) Y_acc: 6739/6739 (100.00%) took 1.51s
+Epoch 15, 97% run_loss: 0.0204 run acc: 748/750 (99.73%) 	tot_loss: 0.0195 N_acc: 0/13 (0.00%) Y_acc: 7487/7487 (100.00%) took 1.50s
+Validation loss = 0.011331 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.12s
+Epoch 16, 9% run_loss: 0.0076 run acc: 749/750 (99.87%) 	tot_loss: 0.0194 N_acc: 0/1 (0.00%) Y_acc: 749/749 (100.00%) took 2.81s
+Epoch 16, 19% run_loss: 0.0214 run acc: 748/750 (99.73%) 	tot_loss: 0.0194 N_acc: 0/3 (0.00%) Y_acc: 1497/1497 (100.00%) took 1.50s
+Epoch 16, 29% run_loss: 0.0052 run acc: 749/750 (99.87%) 	tot_loss: 0.0194 N_acc: 0/4 (0.00%) Y_acc: 2246/2246 (100.00%) took 1.52s
+Epoch 16, 38% run_loss: 0.0030 run acc: 749/750 (99.87%) 	tot_loss: 0.0192 N_acc: 0/5 (0.00%) Y_acc: 2995/2995 (100.00%) took 1.51s
+Epoch 16, 48% run_loss: 0.0105 run acc: 749/750 (99.87%) 	tot_loss: 0.0192 N_acc: 0/6 (0.00%) Y_acc: 3744/3744 (100.00%) took 1.51s
+Epoch 16, 58% run_loss: 0.0003 run acc: 750/750 (100.00%) 	tot_loss: 0.0191 N_acc: 0/6 (0.00%) Y_acc: 4494/4494 (100.00%) took 1.51s
+Epoch 16, 68% run_loss: 0.0096 run acc: 749/750 (99.87%) 	tot_loss: 0.0190 N_acc: 0/7 (0.00%) Y_acc: 5243/5243 (100.00%) took 1.53s
+Epoch 16, 77% run_loss: 0.0142 run acc: 749/750 (99.87%) 	tot_loss: 0.0190 N_acc: 2/10 (20.00%) Y_acc: 5990/5990 (100.00%) took 1.55s
+Epoch 16, 87% run_loss: 0.0105 run acc: 749/750 (99.87%) 	tot_loss: 0.0189 N_acc: 2/11 (18.18%) Y_acc: 6739/6739 (100.00%) took 1.52s
+Epoch 16, 97% run_loss: 0.0179 run acc: 748/750 (99.73%) 	tot_loss: 0.0189 N_acc: 2/13 (15.38%) Y_acc: 7487/7487 (100.00%) took 1.52s
+Validation loss = 0.014018 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.09s
+Epoch 17, 9% run_loss: 0.0006 run acc: 750/750 (100.00%) 	tot_loss: 0.0188 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 2.86s
+Epoch 17, 19% run_loss: 0.0113 run acc: 749/750 (99.87%) 	tot_loss: 0.0187 N_acc: 0/1 (0.00%) Y_acc: 1499/1499 (100.00%) took 1.52s
+Epoch 17, 29% run_loss: 0.0114 run acc: 749/750 (99.87%) 	tot_loss: 0.0187 N_acc: 0/2 (0.00%) Y_acc: 2248/2248 (100.00%) took 1.52s
+Epoch 17, 38% run_loss: 0.0162 run acc: 748/750 (99.73%) 	tot_loss: 0.0187 N_acc: 0/4 (0.00%) Y_acc: 2996/2996 (100.00%) took 1.56s
+Epoch 17, 48% run_loss: 0.0008 run acc: 750/750 (100.00%) 	tot_loss: 0.0186 N_acc: 0/4 (0.00%) Y_acc: 3746/3746 (100.00%) took 1.56s
+Epoch 17, 58% run_loss: 0.0189 run acc: 748/750 (99.73%) 	tot_loss: 0.0186 N_acc: 0/6 (0.00%) Y_acc: 4494/4494 (100.00%) took 1.51s
+Epoch 17, 68% run_loss: 0.0019 run acc: 750/750 (100.00%) 	tot_loss: 0.0185 N_acc: 0/6 (0.00%) Y_acc: 5244/5244 (100.00%) took 1.55s
+Epoch 17, 77% run_loss: 0.0195 run acc: 748/750 (99.73%) 	tot_loss: 0.0185 N_acc: 0/8 (0.00%) Y_acc: 5992/5992 (100.00%) took 1.56s
+Epoch 17, 87% run_loss: 0.0089 run acc: 749/750 (99.87%) 	tot_loss: 0.0184 N_acc: 0/9 (0.00%) Y_acc: 6741/6741 (100.00%) took 1.55s
+Epoch 17, 97% run_loss: 0.0255 run acc: 747/750 (99.60%) 	tot_loss: 0.0185 N_acc: 0/12 (0.00%) Y_acc: 7488/7488 (100.00%) took 1.56s
+Validation loss = 0.054668 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1927/1937 (99.483738%) Accuracy = 1927/1940 (99.329897%)
+Epoch and Validation took 19.40s
+Epoch 18, 9% run_loss: 0.0041 run acc: 749/750 (99.87%) 	tot_loss: 0.0184 N_acc: 0/1 (0.00%) Y_acc: 749/749 (100.00%) took 2.83s
+Epoch 18, 19% run_loss: 0.0014 run acc: 750/750 (100.00%) 	tot_loss: 0.0183 N_acc: 1/2 (50.00%) Y_acc: 1498/1498 (100.00%) took 1.54s
+Epoch 18, 29% run_loss: 0.0095 run acc: 749/750 (99.87%) 	tot_loss: 0.0182 N_acc: 1/3 (33.33%) Y_acc: 2247/2247 (100.00%) took 1.56s
+Epoch 18, 38% run_loss: 0.0090 run acc: 748/750 (99.73%) 	tot_loss: 0.0182 N_acc: 1/4 (25.00%) Y_acc: 2995/2996 (99.97%) took 1.57s
+Epoch 18, 48% run_loss: 0.0103 run acc: 749/750 (99.87%) 	tot_loss: 0.0181 N_acc: 1/5 (20.00%) Y_acc: 3744/3745 (99.97%) took 1.50s
+Epoch 18, 58% run_loss: 0.0038 run acc: 749/750 (99.87%) 	tot_loss: 0.0181 N_acc: 1/6 (16.67%) Y_acc: 4493/4494 (99.98%) took 1.50s
+Epoch 18, 68% run_loss: 0.0123 run acc: 748/750 (99.73%) 	tot_loss: 0.0180 N_acc: 1/8 (12.50%) Y_acc: 5241/5242 (99.98%) took 1.50s
+Epoch 18, 77% run_loss: 0.0269 run acc: 747/750 (99.60%) 	tot_loss: 0.0181 N_acc: 1/11 (9.09%) Y_acc: 5988/5989 (99.98%) took 1.51s
+Epoch 18, 87% run_loss: 0.0138 run acc: 749/750 (99.87%) 	tot_loss: 0.0180 N_acc: 1/12 (8.33%) Y_acc: 6737/6738 (99.99%) took 1.54s
+Epoch 18, 97% run_loss: 0.0010 run acc: 750/750 (100.00%) 	tot_loss: 0.0180 N_acc: 1/12 (8.33%) Y_acc: 7487/7488 (99.99%) took 1.56s
+Validation loss = 0.015299 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.29s
+Epoch 19, 9% run_loss: 0.0003 run acc: 750/750 (100.00%) 	tot_loss: 0.0179 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 2.96s
+Epoch 19, 19% run_loss: 0.0024 run acc: 749/750 (99.87%) 	tot_loss: 0.0178 N_acc: 0/1 (0.00%) Y_acc: 1499/1499 (100.00%) took 1.54s
+Epoch 19, 29% run_loss: 0.0217 run acc: 748/750 (99.73%) 	tot_loss: 0.0178 N_acc: 0/3 (0.00%) Y_acc: 2247/2247 (100.00%) took 1.54s
+Epoch 19, 38% run_loss: 0.0021 run acc: 750/750 (100.00%) 	tot_loss: 0.0178 N_acc: 0/3 (0.00%) Y_acc: 2997/2997 (100.00%) took 1.55s
+Epoch 19, 48% run_loss: 0.0084 run acc: 749/750 (99.87%) 	tot_loss: 0.0177 N_acc: 0/4 (0.00%) Y_acc: 3746/3746 (100.00%) took 1.55s
+Epoch 19, 58% run_loss: 0.0149 run acc: 749/750 (99.87%) 	tot_loss: 0.0177 N_acc: 0/5 (0.00%) Y_acc: 4495/4495 (100.00%) took 1.54s
+Epoch 19, 68% run_loss: 0.0102 run acc: 748/750 (99.73%) 	tot_loss: 0.0177 N_acc: 0/7 (0.00%) Y_acc: 5243/5243 (100.00%) took 1.55s
+Epoch 19, 77% run_loss: 0.0283 run acc: 747/750 (99.60%) 	tot_loss: 0.0177 N_acc: 0/9 (0.00%) Y_acc: 5990/5991 (99.98%) took 1.54s
+Epoch 19, 87% run_loss: 0.0174 run acc: 747/750 (99.60%) 	tot_loss: 0.0177 N_acc: 0/12 (0.00%) Y_acc: 6737/6738 (99.99%) took 1.55s
+Epoch 19, 97% run_loss: 0.0109 run acc: 749/750 (99.87%) 	tot_loss: 0.0177 N_acc: 0/13 (0.00%) Y_acc: 7486/7487 (99.99%) took 1.55s
+Validation loss = 0.012661 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.58s
+Epoch 20, 9% run_loss: 0.0010 run acc: 750/750 (100.00%) 	tot_loss: 0.0176 N_acc: 0/0 (0.00%) Y_acc: 750/750 (100.00%) took 2.83s
+Epoch 20, 19% run_loss: 0.0122 run acc: 749/750 (99.87%) 	tot_loss: 0.0175 N_acc: 0/1 (0.00%) Y_acc: 1499/1499 (100.00%) took 1.56s
+Epoch 20, 29% run_loss: 0.0026 run acc: 749/750 (99.87%) 	tot_loss: 0.0175 N_acc: 0/2 (0.00%) Y_acc: 2248/2248 (100.00%) took 1.52s
+Epoch 20, 38% run_loss: 0.0109 run acc: 749/750 (99.87%) 	tot_loss: 0.0174 N_acc: 0/3 (0.00%) Y_acc: 2997/2997 (100.00%) took 1.51s
+Epoch 20, 48% run_loss: 0.0195 run acc: 748/750 (99.73%) 	tot_loss: 0.0174 N_acc: 0/5 (0.00%) Y_acc: 3745/3745 (100.00%) took 1.51s
+Epoch 20, 58% run_loss: 0.0113 run acc: 749/750 (99.87%) 	tot_loss: 0.0174 N_acc: 0/6 (0.00%) Y_acc: 4494/4494 (100.00%) took 1.51s
+Epoch 20, 68% run_loss: 0.0053 run acc: 749/750 (99.87%) 	tot_loss: 0.0174 N_acc: 0/6 (0.00%) Y_acc: 5243/5244 (99.98%) took 1.56s
+Epoch 20, 77% run_loss: 0.0171 run acc: 748/750 (99.73%) 	tot_loss: 0.0173 N_acc: 0/8 (0.00%) Y_acc: 5991/5992 (99.98%) took 1.58s
+Epoch 20, 87% run_loss: 0.0265 run acc: 747/750 (99.60%) 	tot_loss: 0.0174 N_acc: 0/11 (0.00%) Y_acc: 6738/6739 (99.99%) took 1.55s
+Epoch 20, 97% run_loss: 0.0044 run acc: 749/750 (99.87%) 	tot_loss: 0.0173 N_acc: 0/12 (0.00%) Y_acc: 7487/7488 (99.99%) took 1.55s
+Validation loss = 0.013558 n_Accuracy = 0/3 (0.000000%) y_Accuracy = 1937/1937 (100.000000%) Accuracy = 1937/1940 (99.845361%)
+Epoch and Validation took 19.31s
+Training finished, took 400.63s
+
+
+
+Test set: Average loss: 0.0124, Average Accuracy: 6579/6590 (99.8308%)
